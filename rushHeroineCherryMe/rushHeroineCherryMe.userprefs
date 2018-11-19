@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScripts\RocherSpawnScript.cs">
+    <Files>
+      <File FileName="Assets\MyScripts\ButtonsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\CherryFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\TextClignotant.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\RocherSpawnScript.cs" Line="92" Column="1" />
+      <File FileName="Assets\MyScripts\Cambehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\GameManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\SpawnRush.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\SwipePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\StoryScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\UseScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\MovePlayerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\DestroyCherry.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\cherryBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\SkyScrollScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
